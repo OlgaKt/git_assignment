@@ -26,5 +26,10 @@ f. What does git diff do?
 It allows to compare files
 
 g. What is the main branch?
+The main branch is the default branch in a Git repository.
+
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+No, we need to create a new branch where we can work on a new feature and make changes.
+
+
 
