@@ -19,7 +19,12 @@ d. Give me a step by step guide on how to add someone to your repository.
 7. They will need to accept the invitation to become a collaborator
 
 e. What is the difference between git and GitHub?
+Git is a local version control system that is used for tracking changes in source code during software development. It allows users to create branches, make changes, commit those changes, merge branches, and revert to previous versions. 
+GitHub is a web-based platform built around Git. It allows users to share their code, collaborate with others, and contribute to open-source projects.
+
 f. What does git diff do?
+It allows to compare files
+
 g. What is the main branch?
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
 
